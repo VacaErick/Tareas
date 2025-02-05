@@ -101,7 +101,6 @@ section .izq,
 .der {
     width: 33.3%;
     float: left;
-    height: 150px;
     text-align: center;
 }
 
