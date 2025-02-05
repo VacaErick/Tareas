@@ -47,14 +47,14 @@ nav .logo,
 
 .logo {
     width: 10%;
-    background-image: url(../images/dulces-de-la-rosa-logo-9FCA856576-seeklogo.com.webp);
+    background-image: url(../images/logoDeLaRosa.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 .social {
     width: 30%;
-    background-image: url(../images/png-clipart-facebook-twitter-and-instagram-logo-social-media-facebook-computer-icons-social-networking-service-like-us-on-facebook-text-log.png);
+    background-image: url(../images/redesSociales.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -62,7 +62,7 @@ nav .logo,
 .cabecera {
     clear: both;
     width: 100%;
-    background-image: url(../images/beneficios-del-cacahuate-para-la-salud-que-debes-conocer-3237332761.png);
+    background-image: url(../images/cacahuates.png);
     text-align: center;
     height: 150px;
     line-height: 150px;
@@ -90,7 +90,7 @@ header h1 {
 }
 
 .dos {
-    background-image: url(../images/il_fullxfull.2707030483_nxv8-1061219270-removebg-preview.png);
+    background-image: url(../images/pulparindo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -127,7 +127,7 @@ section .izq,
 
 section .tres {
     width: 30%;
-    background-image: url(../images/3d0f3f3d-c44d-4cb9-92d9-3d76ddaf7f2c.__CR0_129_1177_728_PT0_SX970_V1___-1732753612-removebg-preview.png);
+    background-image: url(../images/mazapan.png);
     float: left;
     height: 250px;
     text-align: center;
