@@ -13,7 +13,7 @@
     margin: 5px auto;
 }
 
-nav .logo,
+.logo,
 .menu,
 .social {
     background-color: #fff200;
@@ -96,7 +96,7 @@ header h1 {
     background-size: cover;
 }
 
-section .izq,
+.izq,
 .cen,
 .der {
     width: 33.3%;
@@ -126,7 +126,7 @@ section .izq,
     padding: 25px;
 }
 
-section .tres {
+.tres {
     clear: both;
     width: 30%;
     background-image: url(../images/mazapan.png);
@@ -137,7 +137,7 @@ section .tres {
     background-repeat: no-repeat;
 }
 
-section .cuatro {
+.cuatro {
     width: 70%;
     float: left;
     height: 200px;
