@@ -78,7 +78,6 @@ header h1 {
 .dos {
     width: 50%;
     float: left;
-    height: 280px;
     text-align: center;
 }
 
@@ -91,6 +90,7 @@ header h1 {
 }
 
 .dos {
+    height: 250px;
     background-image: url(../images/pulparindo.png);
     background-repeat: no-repeat;
     background-size: cover;
