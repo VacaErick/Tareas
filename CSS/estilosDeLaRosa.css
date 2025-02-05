@@ -140,7 +140,6 @@ header h1 {
 .cuatro {
     width: 70%;
     float: left;
-    height: 200px;
     text-align: center;
     display: flex;
     flex-direction: column;
